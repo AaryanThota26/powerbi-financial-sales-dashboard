@@ -1,5 +1,9 @@
 # 📊 Financial Sales Performance Dashboard – Power BI  
 
+## 📸 Dashboard Preview
+
+![Dashboard](Screenshot 2026-03-13 223023.png)
+
 ## 📌 Project Overview  
 This project focuses on analyzing financial sales data using Microsoft Power BI to generate meaningful business insights. The dashboard provides interactive visualizations to understand sales trends, profit distribution, regional performance, and product category analysis. The objective is to support effective data-driven decision-making through clear and dynamic visualization.
 
